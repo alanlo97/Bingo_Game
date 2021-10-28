@@ -1,0 +1,6 @@
+lionel;messi;10;2020.00
+leandro;paredes;4;30.00
+lionel;scaloni;10;20.00
+angel;di maria;56;20.00
+cristian;romero;12;0.00
+rodrigo;de paul;25;36.00
